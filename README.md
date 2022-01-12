@@ -2,7 +2,7 @@
 
 ### About
 
-This is a GraphQL endpoint created for creating a small !(eCommerce website)[https://github.com/asemshaath/e-commerce-frontend] .
+This is a GraphQL endpoint created for creating a small [eCommerce website]!(https://github.com/asemshaath/e-commerce-frontend) .
 
 ### How to start
 
