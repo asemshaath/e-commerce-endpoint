@@ -1,8 +1,8 @@
-# GraphQL endpoint for Junior Developer position in Scandiweb
+# eCommerce GraphQL endpoint
 
-### Overview
+### About
 
-You are going to need this endpoint in order to implement the assignment given to you (minimalistic storefront).
+This is a GraphQL endpoint created for creating a small !(eCommerce website)[https://github.com/asemshaath/e-commerce-frontend] .
 
 ### How to start
 
